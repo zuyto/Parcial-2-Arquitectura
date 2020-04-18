@@ -3,7 +3,7 @@
 /*  Encendido de Led por medio de pulsador con interrupciones externas HW */
 /*************/
 
-/*** Mauro Ferney Martines Quiroga ***/
+/*** Mauro Ferney Martinez Quiroga ***/
 
 
 /*** Profesor: Jonathan Pardo   ***/

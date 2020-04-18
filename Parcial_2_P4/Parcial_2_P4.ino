@@ -3,7 +3,7 @@
 /*  SEMAFORO usando interrupciones Delay() */
 /*************/
 
-/*** Mauro Ferney Martines Quiroga ***/
+/*** Mauro Ferney Martinez Quiroga ***/
 
 
 /*** Profesor: Jonathan Pardo   ***/
